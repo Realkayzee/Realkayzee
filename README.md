@@ -1,7 +1,7 @@
 # Hi, welcome to my page 👋
 
 I'm Kazeem, a passionate Fullstack Web developer currently in Lagos, Nigeria.
-Exploring technologies, innovations and creativites has given me a kind of attraction towards blockchain
+Exploring technologies, innovations and creativites has given me an attraction towards blockchain
 
 
 
