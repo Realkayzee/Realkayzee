@@ -8,4 +8,14 @@ My name is Kazeem, I'm a Blockchain Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realkayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
+
+
+### Get in touch with me
+<a href="https://twitter.com/Real_kayzee1">
+  <img align="left" alt="Kayzee | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/kazeem-olaniyi-9a9943155/">
+  <img align="left" alt="Olaniyi Kazeem LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
