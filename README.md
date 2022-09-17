@@ -6,7 +6,10 @@ My name is Kazeem, I'm a Blockchain Developer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Realkayzee&theme=radical)](https://github.com/Realkayzee)
 
-[![ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realkayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
+
 
 ### Get in touch with me
 <a href="https://twitter.com/Real_kayzee1">
