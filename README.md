@@ -2,11 +2,17 @@
 
 My name is Kazeem, I'm a Blockchain Developer
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Realkayzee&theme=radical)](https://github.com/Realkayzee)
+[![Kayzee's github stats](https://github-readme-stats.vercel.app/api?username=Realkayzee&show_icons=true&theme=radical&hide=stars)](https://github.com/Realkayzee/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Realkayzee&theme=radical" alt="kayzee" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realkayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kayzee&layout=compact&theme=radical)](https://github.com/Realkayzee)
+- 🔭 I’m currently working on Interesting things
+- 🌱 I’m currently learning a lot of interesting things
+- 👯 I’m looking to collaborate on all sort of interesting things
+- 🤔 I’m looking for help with interesting things
+- 💬 Ask me about most interesting things
+- 📫 How to reach me: [Realkayzee](https://twitter.com/Real_kayzee1)
+- ⚡ Fun fact: I like interesting things
+- reach me faster: [@Real_kayzee1](https://twitter.com/Real_kayzee1)
 
 
 ### Get in touch with me
