@@ -12,7 +12,7 @@ My name is Kazeem, I'm a Blockchain Developer
 - 💬 Ask me about most interesting things
 - 📫 How to reach me: [Realkayzee](https://twitter.com/Real_kayzee1)
 - ⚡ Fun fact: I like interesting things
-- reach me faster: [@Real_kayzee1](https://twitter.com/Real_kayzee1)
+- reach me faster on LinkedIn: [Kazeem Olaniyi](https://www.linkedin.com/in/kazeem-olaniyi-9a9943155)
 
 
 ### Get in touch with me
