@@ -2,7 +2,7 @@
 
 My name is Kazeem, I'm a Blockchain Developer
 
-[![Kayzee's github stats](https://github-readme-stats.vercel.app/api?username=Realkayzee&show_icons=true&theme=radical&hide=stars)](https://github.com/Realkayzee/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Realkayzee&theme=radical" alt="kayzee" /></p>
+[![Kayzee's github stats](https://github-readme-stats.vercel.app/api?username=Realkayzee&show_icons=true&theme=merko&hide=stars)](https://github.com/Realkayzee/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Realkayzee&theme=merko" alt="kayzee" /></p>
 
 
 - 🔭 I’m currently working on Interesting things
