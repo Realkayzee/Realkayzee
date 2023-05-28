@@ -2,8 +2,6 @@
 
 My name is Kazeem, I'm a Blockchain Developer
 
-[![Kayzee's github stats](https://github-readme-stats.vercel.app/api?username=Realkayzee&show_icons=true&theme=radical&hide=stars)](https://github.com/Realkayzee/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Realkayzee&theme=radical" alt="kayzee" /></p>
-
 
 - 🔭 I’m currently working on Interesting things
 - 🌱 I’m currently learning a lot of interesting things
