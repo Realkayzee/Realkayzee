@@ -17,10 +17,10 @@ My name is Kazeem, I'm a Blockchain Developer
 
 ### Get in touch with me
 <a href="https://twitter.com/Real_kayzee1">
-  <img align="left" alt="Kayzee | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kayzee | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/kazeem-olaniyi-9a9943155/">
-  <img align="left" alt="Olaniyi Kazeem LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Olaniyi Kazeem LinkedIN" width="22px" src="https://www.nicepng.com/png/detail/916-9162764_download-icon-linkedin-svg-eps-png-psd-ai.png" />
 </a>
 
