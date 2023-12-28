@@ -1,6 +1,8 @@
-### Hi, welcome to my Hub 👋
+<h1 align="center">Hi there 👋, I'm Kazeem Olaniyi (Kayzee)</h1>
+<h3 align="center">Smart Contract Developer | Blockchain Developer</h3>
 
-My name is Kazeem, I'm a Blockchain Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Realkayzee&label=Profile%20views&color=3E001F&style=flat" alt="Realkayzee" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Realkayzee&theme=radical" alt="Realkayzee" /></a> </p>
 
 ![Kayzee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realkayzee&show_icons=true&theme=radical&hide=contribs&count_private=true&rank_icon=github)
 
