@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kazeem Olaniyi (Kayzee)</h1>
-<h3 align="center">🚀 Blockchain Developer | Smart Contract Engineer | Rust & Cairo Enthusiastr</h3>
+<h3 align="center">🚀 Blockchain Developer | Smart Contract Engineer | Rust & Cairo Enthusiast</h3>
 
 ---
 I'm passionate about blockchain technology and specialize in developing smart contracts on EVM-compatible chains. My journey involves exploring innovative solutions, contributing to the open-source community, and embracing the power of decentralized systems.
