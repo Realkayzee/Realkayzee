@@ -12,8 +12,6 @@ Let's build the decentralized future together! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Realkayzee&label=Profile%20views&color=3E001F&style=flat" alt="Realkayzee" /> </p>
 
-![Kayzee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realkayzee&show_icons=true&theme=radical&hide=contribs&count_private=true&rank_icon=github)
-
 [![Kayzee trophy](https://github-profile-trophy.vercel.app/?username=Realkayzee&theme=radical&title=Repositories,PullRequest,Stars,Commit,Followers)](https://github.com/realkayzee)
 
 ### Get in touch with me
