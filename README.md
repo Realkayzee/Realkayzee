@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kazeem Olaniyi (Kayzee)</h1>
-<h3 align="center"> Software Engineer | Blockchain Engineer </h3>
+<h3 align="center"> Software Engineer | Backend Systems (Blockchain, AI) </h3>
 
 ---
 
