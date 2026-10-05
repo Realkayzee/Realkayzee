@@ -12,12 +12,19 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Cairo](https://img.shields.io/badge/Cairo-EC796B?style=for-the-badge)
 
-### Backend
+### Backend & Data
+![Go Gin](https://img.shields.io/badge/Go%20Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Queues, Streams & Events
+![Asynq](https://img.shields.io/badge/Asynq-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-D9363E?style=for-the-badge)
+![Redis Streams](https://img.shields.io/badge/Redis%20Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis Pub/Sub](https://img.shields.io/badge/Redis%20Pub%2FSub-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Infrastructure & Observability
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
