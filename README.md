@@ -1,6 +1,6 @@
 # Kazeem Olaniyi
 
-**Software Engineer (Backend)** · Financial infrastructure & on-chain systems · SDKs & dev tooling · Building AI-powered systems
+**Software Engineer (Backend)** · Financial infrastructure & DeFi protocols · SDKs & dev tooling · Building AI-powered systems
 
 ---
 
